@@ -6,7 +6,9 @@
   ],
   "description": "A collection fo ROS elements for Polymer.",
   "main": "",
-  "keywords": ["element-collection"],
+  "keywords": [
+    "element-collection"
+  ],
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -20,6 +22,7 @@
     "ros-topic": "jstnhuang/ros-topic#^0.1.0",
     "ros-action-client": "jstnhuang/ros-action-client#^0.1.1",
     "ros-service": "jstnhuang/ros-service#^1.0.4",
-    "ros-rviz": "jstnhuang/ros-rviz#^0.10.3"
+    "ros-rviz": "jstnhuang/ros-rviz#^0.10.3",
+    "ros-joint-state": "jstnhuang/ros-joint-state#^1.0.0"
   }
 }
