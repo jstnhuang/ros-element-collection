@@ -1,0 +1,24 @@
+{
+  "name": "ros-element-collection",
+  "homepage": "https://github.com/jstnhuang/ros-element-collection",
+  "authors": [
+    "Justin Huang <jstn@cs.washington.edu>"
+  ],
+  "description": "A collection fo ROS elements for Polymer.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ros-websocket": "jstnhuang/ros-websocket#^2.0.0",
+    "ros-topic": "jstnhuang/ros-topic#^0.1.0",
+    "ros-action-client": "jstnhuang/ros-action-client#^0.1.1",
+    "ros-service": "jstnhuang/ros-service#^1.0.4",
+    "ros-rviz": "jstnhuang/ros-rviz#^0.10.3"
+  }
+}
