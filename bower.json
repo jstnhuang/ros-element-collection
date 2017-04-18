@@ -6,6 +6,7 @@
   ],
   "description": "A collection fo ROS elements for Polymer.",
   "main": "",
+  "keywords": ["element-collection"],
   "license": "MIT",
   "ignore": [
     "**/.*",
