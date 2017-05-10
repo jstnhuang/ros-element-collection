@@ -23,6 +23,6 @@
     "ros-action-client": "jstnhuang/ros-action-client#^0.1.1",
     "ros-service": "jstnhuang/ros-service#^1.0.4",
     "ros-rviz": "jstnhuang/ros-rviz#^0.10.3",
-    "ros-joint-state": "jstnhuang/ros-joint-state#^1.0.0"
+    "ros-joint-states": "jstnhuang/ros-joint-states#^0.1.0"
   }
 }
