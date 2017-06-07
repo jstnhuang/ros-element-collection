@@ -4,12 +4,12 @@
   "authors": [
     "Justin Huang <jstn@cs.washington.edu>"
   ],
-  "description": "A collection fo ROS elements for Polymer.",
+  "description": "A collection of ROS elements for Polymer.",
   "main": "",
   "keywords": [
     "element-collection"
   ],
-  "license": "MIT",
+  "license": "BSD",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -23,6 +23,7 @@
     "ros-action-client": "jstnhuang/ros-action-client#^0.1.1",
     "ros-service": "jstnhuang/ros-service#^1.0.4",
     "ros-rviz": "jstnhuang/ros-rviz#^0.10.3",
-    "ros-joint-states": "jstnhuang/ros-joint-states#^0.1.0"
+    "ros-joint-states": "jstnhuang/ros-joint-states#^0.1.0",
+    "ros-log": "jstnhuang/ros-log#^0.1.0"
   }
 }
